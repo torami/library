@@ -1,4 +1,4 @@
 package com.gkemayo.library.category;
 
-public class CategoryDAO {
+public class ICategoryDao {
 }
